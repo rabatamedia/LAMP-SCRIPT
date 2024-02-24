@@ -19,7 +19,7 @@ Execute the below command one after another in the terminal
 Current I've placed **lamp.sh** file in the home directory and running the script directly from my home directory. You can place it any where you want, just make sure you specify the path correctly.
 
 ```
-ubuntu@aniruddhasm:~$ sudo a+x lamp.sh
+ubuntu@aniruddhasm:~$ sudo chmod a+x lamp.sh
 ubuntu@aniruddhasm:~$ ./lamp.sh
 ```
 
